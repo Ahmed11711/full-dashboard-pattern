@@ -140,7 +140,7 @@ ${error ? "border-red-300 bg-red-50/40 focus:ring-red-100" : ""}
           { label: "Video", value: "video", accept: "video/*", icon: "🎬" },
           {
             label: "Download Demo",
-            value: "download_demo",
+            value: "download",
             accept: ".zip,.rar,.tar.gz,.pdf,.doc,.docx",
             icon: "📦",
           },

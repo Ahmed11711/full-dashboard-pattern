@@ -27,7 +27,7 @@ const adminNavItems = [
   { icon: Layers,           label: "sidebar.bags_categories", path: "/bags_categories" },
   {icon: BoxSelect,        label: "sidebar.bag_items",       path: "/bag_items" },
     { icon: UserCheck, label: "Verification", path: "/verification" },
-  {icon: Settings,         label: "sidebar.settings",        path: "/profile" },
+  // {icon: Settings,         label: "sidebar.settings",        path: "/profile" },
 
 ];
 
